@@ -1,6 +1,6 @@
 #  Mean and variance of a discrete  distribution
 ~~~
-NAME: Daniyel Antony Raj SD
+NAME: DANIYEL ANTONY RAJ SD
 REG NO: 212224220018
 ~~~
 
